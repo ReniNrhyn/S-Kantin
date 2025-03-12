@@ -1,0 +1,12 @@
+[
+  { "id": 1, "name": "Nasi Goreng", "category": "Makanan", "price": 15000 },
+  { "id": 2, "name": "Mie Goreng", "category": "Makanan", "price": 14000 },
+  { "id": 3, "name": "Ayam Geprek", "category": "Makanan", "price": 18000 },
+  { "id": 4, "name": "Teh Manis", "category": "Minuman", "price": 5000 },
+  { "id": 5, "name": "Es Jeruk", "category": "Minuman", "price": 7000 },
+  { "id": 6, "name": "Kopi Hitam", "category": "Minuman", "price": 8000 },
+  { "id": 7, "name": "Soto Ayam", "category": "Makanan", "price": 20000 },
+  { "id": 8, "name": "Bakso", "category": "Makanan", "price": 17000 },
+  { "id": 9, "name": "Es Teh Tarik", "category": "Minuman", "price": 9000 },
+  { "id": 10, "name": "Jus Alpukat", "category": "Minuman", "price": 12000 }
+]
